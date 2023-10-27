@@ -8,7 +8,7 @@ This is a Spotify clone project created using HTML and CSS. The project is desig
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -34,9 +34,7 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 4. Push to the branch: `git push origin feature/NewFeature`
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
